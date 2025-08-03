@@ -4,7 +4,7 @@
 # Requisitos
 - [Visual Studio Code](https://code.visualstudio.com/Download) ou qualquer outra IDE com suporte a [Python](https://www.python.org/)
 - Caso esteja utilizando o Visual Studio Code, instale a extensão oficial:  
-  [DeltaPy for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  [Python (by Microsoft)](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 ---
 
